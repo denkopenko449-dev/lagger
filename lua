@@ -1,4 +1,4 @@
---[[This file was beautified by penko | https://discord.gg/RNzAwYMj2t]]
+--[[This file was beautified by Light Community | https://discord.gg/RNzAwYMj2t]]
 _G._0x4A2B = {[1]="local",[2]="game",[3]="GetService",[4]="Players",[5]="LocalPlayer"}
 _G._0x3F8C = function(_0x1A2B) 
     return _G._0x4A2B[_0x1A2B] or ""
